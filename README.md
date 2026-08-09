@@ -1,4 +1,4 @@
-﻿# 馃尭 璋庤█鍗佸勾 (Lies Ten Years Ago) 路 浜屾鍏冭瑙夊皬璇?
+# 馃尭 璋庤█鍗佸勾 (Lies Ten Years Ago) 路 浜屾鍏冭瑙夊皬璇?
 > **Ren'Py 寮曟搸 路 澶氳瑷€ 路 Android APK 鍙戝竷**
 > A Ren'Py visual novel with multi-language support & Android builds
 
@@ -47,7 +47,7 @@ renpy.exe game-project
 
 
 <p align="center">
-  <img src="screenshots/demo.gif" alt="Demo" width="720"/>
+  <img src="screenshots/demo.webp" alt="Demo" width="720"/>
 </p>
 ---
 
